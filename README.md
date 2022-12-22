@@ -2,6 +2,6 @@
 
 Hi, I'm Jeremy. A graduate of Computer Science and working as a Web Developer
 
-- 🔭 I’m currently working on Websites and Web Applications.
+- 🔭 I’m currently working at [@Sunnybyte](https://sunnybyte.com).
 - 💬 Ask me about anything.
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/jeremydaynieldavid "Linkedin")
